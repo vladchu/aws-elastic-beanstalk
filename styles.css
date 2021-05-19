@@ -11,6 +11,10 @@ body {
         font-size: 87.5%;
     }
 }
+h2 {
+    color: blue;
+    font-size: 28px;
+}
 section.congratulations {
     display: block;
     padding: 50px;

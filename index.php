@@ -25,7 +25,7 @@ else
     <section class="congratulations">
         <h1>Congratulations!</h1>
         <h1>My name VladChu</h1>
-        <h1>NEW TEXT FOR TEST APP2</h1>
+        <h1>NEW TEXT FOR TEST777 APP2</h1>
         <h1>Congratulations2221!</h1>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
